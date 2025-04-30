@@ -7,7 +7,7 @@ A Chrome extension that helps you analyze quiz questions and suggests the most l
 ## Features
 
 - Extracts quiz questions from Canvas and similar platforms.
-- Uses OpenAI's GPT-4 (or GPT-3.5) to analyze and answer questions.
+- Uses OpenAI's GPT-4 to analyze and answer questions.
 - Minimal, hidden UI: only a small "A" button appears until you open the assistant.
 - Adjustable delay between questions to avoid API rate limits.
 - Supports your own OpenAI API key.
